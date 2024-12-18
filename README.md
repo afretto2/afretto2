@@ -1,16 +1,26 @@
-## Hi there 👋
+# Alfred Mertz  
+**Engineering Student | C++ Enthusiast | Robotics Programming | Stuttgart**
 
-<!--
-**afretto2/afretto2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate engineering student focused on **C++** programming and **robotics**. Currently diving deep into building intelligent systems and robotic solutions. I'm excited to learn more about embedded systems, autonomous robots, and algorithms that power modern technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Technologies & Tools
+
+![C++](https://img.shields.io/badge/C%2B%2B-17+-blue?style=flat&logo=cplusplus)
+![Arduino](https://img.shields.io/badge/Arduino-IDE+-red?style=flat&logo=arduino)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-4+-green?style=flat&logo=raspberrypi)
+![Linux](https://img.shields.io/badge/Linux-5.0+-orange?style=flat&logo=linux)
+![Git](https://img.shields.io/badge/Git-2.29+-purple?style=flat&logo=git)
+
+---
+
+### 📈 GitHub Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afretto2&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=afretto2&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afretto2&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=afretto2&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=afretto2&theme=solarized_dark)
+
+---
